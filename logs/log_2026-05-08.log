@@ -1,0 +1,85 @@
+2026-05-08 17:47:39,306 - INFO - CONFIG INITIALIZED
+2026-05-08 17:47:39,307 - INFO - TAVILY TOOL ALL SET
+2026-05-08 17:47:39,311 - INFO - SERPER TOOL ALL SET
+2026-05-08 17:47:39,314 - INFO - AGENT CREATED
+2026-05-08 17:47:42,166 - INFO - NumExpr defaulting to 10 threads.
+2026-05-08 17:48:09,527 - INFO - Travel Planner Initialized
+2026-05-08 17:48:13,328 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:48:19,984 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:48:55,519 - INFO - Travel Planner Initialized
+2026-05-08 17:48:55,882 - INFO - Travel Planner Initialized
+2026-05-08 17:48:56,093 - INFO - Travel Planner Initialized
+2026-05-08 17:48:56,249 - INFO - Travel Planner Initialized
+2026-05-08 17:48:56,435 - INFO - Travel Planner Initialized
+2026-05-08 17:48:56,606 - INFO - Travel Planner Initialized
+2026-05-08 17:48:56,791 - INFO - Travel Planner Initialized
+2026-05-08 17:48:59,407 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:48:59,694 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:00,091 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:00,249 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:00,265 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:00,463 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:00,897 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:03,368 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:03,369 - INFO - Retrying request to /v1/messages in 16.000000 seconds
+2026-05-08 17:49:04,177 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:04,613 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:05,004 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:05,675 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:06,096 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:06,097 - INFO - Retrying request to /v1/messages in 13.000000 seconds
+2026-05-08 17:49:06,289 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:06,514 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:06,516 - INFO - Retrying request to /v1/messages in 13.000000 seconds
+2026-05-08 17:49:07,007 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:07,520 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:07,521 - INFO - Retrying request to /v1/messages in 11.000000 seconds
+2026-05-08 17:49:07,601 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:07,602 - INFO - Retrying request to /v1/messages in 12.000000 seconds
+2026-05-08 17:49:08,597 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:08,598 - INFO - Retrying request to /v1/messages in 10.000000 seconds
+2026-05-08 17:49:09,123 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:09,124 - INFO - Retrying request to /v1/messages in 10.000000 seconds
+2026-05-08 17:49:19,435 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:19,437 - INFO - Retrying request to /v1/messages in 2.000000 seconds
+2026-05-08 17:49:19,447 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:19,448 - INFO - Retrying request to /v1/messages in 2.000000 seconds
+2026-05-08 17:49:19,772 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:19,773 - INFO - Retrying request to /v1/messages in 3.000000 seconds
+2026-05-08 17:49:20,216 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:20,217 - INFO - Retrying request to /v1/messages in 37.000000 seconds
+2026-05-08 17:49:21,696 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:21,698 - ERROR - Planner error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: 4d639c7d-0f94-49f1-a68d-51adcdce5f08, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CaqNBKMEVKeu2h6CdQ9dU'}
+2026-05-08 17:49:21,718 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:21,719 - ERROR - Planner error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: 4d639c7d-0f94-49f1-a68d-51adcdce5f08, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CaqNBKRwp5asa7ULWWfL5'}
+2026-05-08 17:49:22,553 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:23,170 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:23,170 - ERROR - Planner error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: 4d639c7d-0f94-49f1-a68d-51adcdce5f08, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CaqNBRhUd15HJhD2ntbkU'}
+2026-05-08 17:49:23,366 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:24,622 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:24,623 - INFO - Retrying request to /v1/messages in 43.000000 seconds
+2026-05-08 17:49:25,504 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:25,504 - INFO - Retrying request to /v1/messages in 45.000000 seconds
+2026-05-08 17:49:32,090 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:49:57,575 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:49:57,577 - ERROR - Planner error: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': "This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: 4d639c7d-0f94-49f1-a68d-51adcdce5f08, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."}, 'request_id': 'req_011CaqNDxiqTySk17RnYXJuE'}
+2026-05-08 17:50:10,837 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 429 Too Many Requests"
+2026-05-08 17:50:10,838 - INFO - Retrying request to /v1/messages in 18.000000 seconds
+2026-05-08 17:50:30,339 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:50:32,786 - INFO - CONFIG INITIALIZED
+2026-05-08 17:50:32,789 - INFO - TAVILY TOOL ALL SET
+2026-05-08 17:50:32,791 - INFO - SERPER TOOL ALL SET
+2026-05-08 17:50:32,798 - INFO - AGENT CREATED
+2026-05-08 17:51:07,609 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:51:33,693 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:52:20,508 - INFO - CONFIG INITIALIZED
+2026-05-08 17:52:20,509 - INFO - TAVILY TOOL ALL SET
+2026-05-08 17:52:20,511 - INFO - SERPER TOOL ALL SET
+2026-05-08 17:52:20,515 - INFO - AGENT CREATED
+2026-05-08 17:52:22,021 - INFO - NumExpr defaulting to 10 threads.
+2026-05-08 17:52:45,771 - INFO - Travel Planner Initialized
+2026-05-08 17:52:50,430 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:52:56,260 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:53:02,200 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:54:34,194 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-05-08 17:54:34,202 - INFO - RESPONSE GENERATED
