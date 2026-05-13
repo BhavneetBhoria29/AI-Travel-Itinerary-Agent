@@ -1,0 +1,106 @@
+{
+  "Paris": {
+    "input": {
+      "city": "Paris",
+      "days": 3,
+      "interests": [
+        "Impressionist Art",
+        "Michelin Star Dining",
+        "Seine River Cruises"
+      ],
+      "style": "Luxury",
+      "pace": "Relaxed",
+      "month": "June"
+    },
+    "ground_truth": "For a trip to Paris in June, the top attractions and events include a Seine River dinner cruise, visiting the Louvre to see Impressionist art, exploring the Montmartre neighborhood, taking a sightseeing tour, and experiencing the city's Michelin-starred restaurants. The month of June offers a packed program of cultural, music, and sporting events. A guided tour can help skip lines and make the most of the time in Paris. Must-try foods include cr\u00eapes with various toppings. The Eiffel Tower, Versailles, and Hall of Mirrors are also notable attractions. With a focus on Impressionist art, Michelin-star dining, and Seine River cruises, these experiences will provide a well-rounded and memorable trip to Paris.",
+    "essential_topics": [
+      "Seine River cruise options",
+      "Impressionist art museums in Paris",
+      "Michelin-starred restaurants in Paris"
+    ],
+    "expected_queries": [
+      "best Seine River dinner cruises in Paris",
+      "Impressionist art galleries in Paris near the Louvre",
+      "Michelin-starred restaurants in Paris with Eiffel Tower views"
+    ],
+    "raw_context": "{'query': 'top attractions, events, and food recommendations for Paris in June for interests: Impressionist Art, Michelin Star Dining, Seine River Cruises', 'response_time': 3.79, 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://lesfrenchiestravel.com/things-to-do-in-paris/dinner-cruise-seine-paris/', 'title': 'Best Seine Dinner Cruises in Paris (2026) \u2014 Compared & Ranked', 'content': 'The 5 best dinner cruises on the Seine in Paris for 2026, compared by price, food quality, atmosphere and value. From \u20ac67 to fine dining.', 'score': 0.76490957, 'raw_content': None}, {'url': 'https://www.tripadvisor.com/Attractions-g187147-Activities-Paris_Ile_de_France.html', 'title': 'THE 15 BEST Things to Do in Paris (2026) - Must-See Attractions', 'content': 'Snap a pic at the Eiffel Tower, wander around the Louvre, take a day trip to Versailles, or try a sightseeing tour to uncover even more art, history,', 'score': 0.71995544, 'raw_content': None}, {'url': 'https://www.viator.com/Paris/d479-ttd', 'title': 'All Paris Tours & Excursions in 2026 - Viator', 'content': 'Here are some of the top outdoor tours to book right now: Bateaux Parisiens Seine River Gourmet Lunch & Sightseeing Cruise \u00b7 Paris Montmartre Walking Tour Best', 'score': 0.71425, 'raw_content': None}, {'url': 'https://www.mywanderlustylife.com/best-paris-bucket-list/', 'title': 'Best Paris Bucket List for First-Time Visitors (2026): 34+ Must-Dos!', 'content': '**Destination of the Month**"
+  },
+  "Tokyo": {
+    "input": {
+      "city": "Tokyo",
+      "days": 5,
+      "interests": [
+        "Robotics & AI Hubs",
+        "Tsukiji Outer Market",
+        "Anime Culture"
+      ],
+      "style": "Mid-range",
+      "pace": "Packed",
+      "month": "October"
+    },
+    "ground_truth": "For a trip to Tokyo in October, the 5 absolute must-include attractions/events are: visiting the Tsukiji Outer Market for fresh seafood and traditional Japanese food, exploring the city's Robotics & AI Hubs, immersing in Anime Culture, attending events and festivals in October 2026, and experiencing the best sushi at top counters like Sushi Experiences. Additionally, trying live crab dishes at Kani Doraku and taking a food and walking tour of the Tsukiji Fish Market are highly recommended. The trip should also include a visit to the Asakusa and Meiji Shrine. These attractions and events will provide a well-rounded experience of Tokyo's unique culture, food, and technology.",
+    "essential_topics": [
+      "Tsukiji Outer Market",
+      "Robotics & AI Hubs in Tokyo",
+      "Anime Culture events in Tokyo"
+    ],
+    "expected_queries": [
+      "top robotics and ai hubs in Tokyo",
+      "Tsukiji Outer Market food and walking tour",
+      "Tokyo anime culture events in October 2026"
+    ],
+    "raw_context": "{'query': 'top attractions, events, and food recommendations for Tokyo in October for interests: Robotics & AI Hubs, Tsukiji Outer Market, Anime Culture', 'response_time': 1.94, 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://tokyocheapo.com/events/october/', 'title': 'October 2026 Events in Tokyo', 'content': 'Events, festivals, markets, exhibitions, concerts, comedy, nightlife, and things to do in Tokyo in October 2026.', 'score': 0.9996594, 'raw_content': None}, {'url': 'https://www.tripadvisor.com/Attractions-g14129610-Activities-Tsukiji_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html', 'title': 'THE 15 BEST Things to Do in Tsukiji (2026) - Must-See Attractions', 'content': 'Tsukiji Outer Market is a must-visit for anyone who loves Japanese food. While the famous inner wholesale market has moved, this area remains a bustling and', 'score': 0.9995453, 'raw_content': None}, {'url': 'https://www.trip.com/moments/poi-tsukiji-outer-market-136246871/', 'title': '[2026 Tokyo Attraction] Tsukiji Outer Market Travel Guide ... - Trip.com', 'content': 'Be sure to try live crab dishes at Kani Doraku nearby. Foodie List \u25aa\ufe0f Fresh sushi at Tsukiji Market in Tokyo, the fatty tuna melts in your mouth, and the sea', 'score': 0.99895155, 'raw_content': None}, {'url': 'https://jw-webmagazine.com/tips/things-to-do-in-tokyo/', 'title': 'Best Things to Do in Tokyo 2026: A Curated Guide for Every Traveller', 'content': 'Tsukiji Outer Market \u2014 Fresh seafood and trad"
+  },
+  "Mumbai": {
+    "input": {
+      "city": "Mumbai",
+      "days": 3,
+      "interests": [
+        "UNESCO Heritage Sites",
+        "Marine Drive Seafront",
+        "Bollywood Tours"
+      ],
+      "style": "Mid-range",
+      "pace": "Balanced",
+      "month": "January"
+    },
+    "ground_truth": "The top attractions in Mumbai include the Elephanta Caves, a UNESCO World Heritage Site, and a scenic drive along Marine Drive. Bollywood tours are also a must, with options ranging from basic studio visits to comprehensive packages including set visits, live filming viewing, and star home drives. The Gateway of India in Colaba is another iconic spot, often used as a backdrop for movie scenes. Chhatrapati Shivaji Terminus, a World Heritage Site, and Dhobi Ghat are also essential visits. Lastly, a visit to the Taj Mahal Palace & Tower is recommended. These attractions offer a mix of culture, history, and entertainment, making for a well-rounded trip to Mumbai.",
+    "essential_topics": [
+      "Mumbai UNESCO sites",
+      "Bollywood tours",
+      "Marine Drive attractions"
+    ],
+    "expected_queries": [
+      "Mumbai UNESCO sites tour packages",
+      "Bollywood studio tour and film city experiences",
+      "Marine Drive and Gateway of India sightseeing tour"
+    ],
+    "raw_context": "{'query': 'top attractions, events, and food recommendations for Mumbai in January for interests: UNESCO Heritage Sites, Marine Drive Seafront, Bollywood Tours', 'response_time': 2.69, 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://www.getyourguide.com/mumbai-l201/unesco-sites-tc266/', 'title': 'The best Mumbai UNESCO sites 2026 - Free cancellation', 'content': \"Explore the beautiful Elephanta Caves, a UNESCO World Heritage Site on a this tour from Mumbai. ... Enjoy a scenic drive along Marine Drive, Mumbai's picturesque\", 'score': 0.8005209, 'raw_content': None}, {'url': 'https://www.machupicchu.org/best-mumbai-tours-2026-city-slum-bollywood-experiences.htm', 'title': 'Best Mumbai Tours 2026: City, Slum & Bollywood Experiences', 'content': '* **Bollywood Experiences:**\\xa0Studio tours at Film City (\u20b9599-1,699) include set visits and live filming viewing; comprehensive packages (\u20b94,000-6,000) add star home drives, dance shows, and lunch for complete Bollywood immersion. Bollywood tour packages vary significantly based on price and operator, ranging from basic studio visits to comprehensive experiences including multiple activities. Magical Mumbai Tours operates Dharavi experiences at \u20b91,500-2,500 depending on group size, with private tours available. Some tour operators combine Bollywood Park entry with broader Film City experiences, creating hybrid packages at \u20b93,500-5,000 including transportation and guide services. Extended night to"
+  },
+  "Kerala": {
+    "input": {
+      "city": "Kerala",
+      "days": 4,
+      "interests": [
+        "Alleppey Houseboats",
+        "Ayurvedic Massages",
+        "Munnar Tea Plantations"
+      ],
+      "style": "Budget",
+      "pace": "Relaxed",
+      "month": "September"
+    },
+    "ground_truth": "The 5 absolute must-include attractions/events for a trip to Kerala in September are: Alleppey Houseboats, Munnar Tea Plantations, Ayurvedic Massages, Athirappilly waterfalls, and a visit to the misty hill stations in Munnar. These attractions offer a mix of relaxation, nature, and culture. The Alleppey Houseboats provide a unique experience of cruising through the backwaters, while the Munnar Tea Plantations offer a scenic view of the tea gardens. The Ayurvedic Massages provide a relaxing and healing experience, and the Athirappilly waterfalls and misty hill stations in Munnar offer a glimpse into the natural beauty of Kerala. A 4-day or 5-day tour package that includes these attractions would be ideal for a trip to Kerala in September.",
+    "essential_topics": [
+      "Alleppey Houseboats",
+      "Munnar Tea Plantations",
+      "Ayurvedic Massages"
+    ],
+    "expected_queries": [
+      "Kerala tour packages for September",
+      "Alleppey houseboat cruise and Munnar tea plantation tour",
+      "Best Ayurvedic massage centers in Kerala for monsoon season"
+    ],
+    "raw_context": "{'query': 'top attractions, events, and food recommendations for Kerala in September for interests: Alleppey Houseboats, Ayurvedic Massages, Munnar Tea Plantations', 'response_time': 3.9, 'follow_up_questions': None, 'answer': None, 'images': [], 'results': [{'url': 'https://us.trip.com/travel-guide/destination/alleppey-137572/', 'title': 'Alleppey Travel Guide 2026: Top Attractions, Things to do & Itinerary', 'content': 'Ready to explore Alleppey? Discover must-see sights, fun things to do, and where to stay. Find exclusive deals on hotels, tours, and attraction tickets.', 'score': 0.99980444, 'raw_content': None}, {'url': 'https://www.getyourguide.com/kerala-l741/', 'title': 'The BEST Kerala Tours and Things to Do in 2026 - GetYourGuide', 'content': 'Enjoy a refreshing Kerala trip with Munnar sightseeing, waterfalls, tea plantations, and an unforgettable Alleppey houseboat cruise. Ideal 5-day holiday', 'score': 0.99942964, 'raw_content': None}, {'url': 'https://www.tripadvisor.com/AttractionProductReview-g297633-d33443462-4_Day_Kerala_Tour_Athirappilly_Munnar_Alleppey-Kochi_Cochin_Ernakulam_District_Ker.html', 'title': '2026 4 Day Kerala Tour Athirappilly Munnar Alleppey (with Reviews)', 'content': 'The Kochi\u2013Athirappilly\u2013Munnar\u2013Alleppey tour perfectly blends waterfalls, misty hills, and serene backwaters. Every stop feels unique, from the roar of', 'score': 0.99356186, 'raw_content': None}, {'url': 'https://happyvacationsclub.com/kerala-monsoon-tour-packages-the-ultimate-g"
+  }
+}

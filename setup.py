@@ -5,7 +5,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="AI TRAVEL PLANNER AGENT",
-    version="0.1",
+    version="2.0",
     author="Bhavneet",
     packages=find_packages(),
     install_requires = requirements,

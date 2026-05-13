@@ -1,0 +1,9 @@
+.env
+travenv/
+__pycache__/
+*.py[oc]
+*.egg-info/
+dist/
+build/
+logs/
+.git/
